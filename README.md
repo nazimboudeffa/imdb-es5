@@ -1,8 +1,7 @@
 IMDB ES5
 ---
 
-![npm](https://img.shields.io/npm/v/imdb.svg)
-![downloads](https://img.shields.io/npm/dt/imdb.svg)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/nazimboudeffa/imdb-es5)
 
 An ES5 NodeJS IMDB API for getting information on your favourite movies!
 
