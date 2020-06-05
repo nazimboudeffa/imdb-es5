@@ -1,0 +1,29 @@
+{
+  "name": "imdb-es5",
+  "version": "1.0.0",
+  "description": "An ES5 NodeJS IMDB API for getting information on your favourite movies!",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.65.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nazim Boudeffa <boudeffa@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazimboudeffa/imdb-es5.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nazimboudeffa/imdb-es5/issues"
+  },
+  "homepage": "https://github.com/nazimboudeffa/imdb-es5#readme",
+  "keywords": [
+    "movies",
+    "imdb",
+    "api"
+  ]
+}
